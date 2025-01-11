@@ -1,6 +1,6 @@
 <?php
-$username="jkg215";
-$password="Fc*BmKjMdZY8!bpW";
+$username="*******";
+$password="*******";
 $data="username=$username&password=$password";
 $ch=curl_init('https://cs4743.professorvaladez.com/api/create_session');
 curl_setopt($ch, CURLOPT_POST,1);
