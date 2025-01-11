@@ -7,8 +7,8 @@ $log_dblink = db_connect("logs");  // Connect to the logs schema
 // Start the script and log the start event
 log_event($log_dblink, "Script started", '', "createQueryRequestCRON");
 
-$username = "jkg215";
-$password = "Fc*BmKjMdZY8!bpW";
+$username = "******";
+$password = "******";
 $sid = null; // Initialize session ID
 
 try {
