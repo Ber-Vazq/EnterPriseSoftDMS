@@ -1,6 +1,8 @@
 # EnterPriseSoftDMS
 My senior project for enterprise software engineering
 
+Non-functional now since I removed any of the passwords that were there, and the AWS instance isn't active either.
+
 In my final semester at UTSA I took Enterprise Software with Professor Valadez, this is the culmination of near 120-140 hours of work spread out over about a month. 
 
 We began with creating a php file to query his API endpoint and get dummy data, and before going live with that we created a database schema to match that. 
