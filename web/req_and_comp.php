@@ -6,8 +6,8 @@ $dblink = db_connect("documents");
 $log_dblink = db_connect("logs");
 
 // API credentials
-$username = "jkg215";
-$password = "Fc*BmKjMdZY8!bpW";
+$username = "*****";
+$password = "*****";
 
 try {
     // Create a new API session
