@@ -3,8 +3,8 @@
 // Function to Connect to the Database
 function db_connect($db) {
     $hostname = "localhost";
-    $username = "web_user";
-    $password = "R)Je9Zo/.2f3xiAI";
+    $username = "*****";
+    $password = "*****";
     $dblink = new mysqli($hostname, $username, $password, $db);
 
     if ($dblink->connect_error) {
